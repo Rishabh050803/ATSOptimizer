@@ -33,7 +33,7 @@ Check out our project walkthrough on YouTube: [Watch the Video](https://youtu.be
 - **Shadcn UI** – Elegant component library
 - **Framer Motion** – Smooth animations & transitions
 - **TypeScript** – Type-safe and scalable codebase
-- **OpenAI API** – AI-powered resume analysis
+- **Gemini API** – AI-powered resume analysis
 - **Node.js & Express** – Backend API services
 - **MongoDB** – Resume data storage
 
@@ -56,7 +56,7 @@ pnpm install  # or yarn install
 Create a `.env` file in the root directory:
 ```env
 NEXT_PUBLIC_APP_URL=your_app_url
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY=your_gemini_api_key
 MONGO_URI=your_mongodb_connection_string
 ```
 
@@ -78,10 +78,10 @@ For manual deployment, check [Next.js Deployment Docs](https://nextjs.org/docs/d
 ---
 
 ## 🤝 Team Members
-👨‍💻 **[Your Name]** – Backend & AI Integration  
-🎨 **[Teammate Name]** – UI/UX Design & Frontend  
-📊 **[Teammate Name]** – Data & Resume Optimization  
-🔍 **[Teammate Name]** – ATS & Job Matching Logic  
+👨‍💻 **Deepanshu Rathod** – Backend & AI Integration  
+🎨 **Deeshank Jha** – UI/UX Design & Frontend  
+📊 **Hardik Joshi** – Data & Resume Optimization  
+🔍 **Rishabh Kumar Patel** – ATS & Job Matching Logic  
 
 ---
 
